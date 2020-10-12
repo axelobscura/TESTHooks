@@ -51,7 +51,7 @@ function App() {
         <div className="spinner-border" role="status">
           <span className="sr-only">Loading...</span>
         </div>
-        <p>Loading secret word</p>
+        <p>Loading secret word, please wait!</p>
       </div>
     );
   }
